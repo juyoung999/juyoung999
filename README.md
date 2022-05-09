@@ -17,7 +17,7 @@
 <br><br>
 
 # 📚 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Judylog)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Judylog)](https://velog.io/@juyoung999) 
 <br><br>
 
 # 📊 State
